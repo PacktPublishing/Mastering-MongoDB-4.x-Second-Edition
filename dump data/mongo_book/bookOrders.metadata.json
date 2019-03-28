@@ -1,0 +1,1 @@
+{"options":{"validator":{"$and":[{"isbn":{"$exists":true}},{"name":{"$exists":true}}]},"validationLevel":"strict","validationAction":"error"},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"mongo_book.bookOrders"}]}

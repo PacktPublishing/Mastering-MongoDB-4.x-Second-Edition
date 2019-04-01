@@ -61,5 +61,5 @@ With the following software and hardware list you can run all code files present
 
 
 ## Other books by the authors
-* [	Mastering MongoDB 3.x](https://prod.packtpub.com/in/big-data-and-business-intelligence/mongodb-administrators-guide?utm_source=github&utm_medium=repository&utm_campaign=9781783982608)
+* [	Mastering MongoDB 3.x](https://prod.packtpub.com/in/big-data-and-business-intelligence/mastering-mongodb-3x?utm_source=github&utm_medium=repository&utm_campaign=9781783982608)
 

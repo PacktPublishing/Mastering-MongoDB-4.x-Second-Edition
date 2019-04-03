@@ -1,8 +1,8 @@
-# Mastering MongoDB 4.x Second Edition
+# Mastering MongoDB 4.x - Second Edition
 
 <a href="https://www2.packtpub.com/big-data-and-business-intelligence/mastering-mongodb-4x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789617870"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B12072_MockupCover.png" alt="Mastering MongoDB 4.x, Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Mastering MongoDB 4.x Second Edition](https://www2.packtpub.com/big-data-and-business-intelligence/mastering-mongodb-4x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789617870), published by Packt.
+This is the code repository for [Mastering MongoDB 4.x - Second Edition](https://www2.packtpub.com/big-data-and-business-intelligence/mastering-mongodb-4x-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789617870), published by Packt.
 
 **Expert techniques to run high-volume and fault-tolerant database solutions using MongoDB 4.x**
 

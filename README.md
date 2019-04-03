@@ -9,7 +9,7 @@ This is the code repository for [Mastering MongoDB 4.x - Second Edition](https:/
 ## What is this book about?
 MongoDB is the best platform for working with non-relational data and is considered to be the smartest tool for organizing data in line with business needs. The recently released MongoDB 4.x supports ACID transactions and makes the technology an asset for enterprises across the IT and fintech sectors. 
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Perform advanced querying techniques such as indexing and expressions
 * Configure, monitor, and maintain a highly scalable MongoDB environment 
 * Master replication and data sharding to optimize read/write performance 
